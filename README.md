@@ -17,10 +17,6 @@ Loan-Default-Prediction/
 ├── 📁 notebooks/
 │   └── LoanDefault.ipynb     # Final Jupyter notebook (with all code & results)
 │
-├── 📁 presentation/
-│   ├── ML-Midterm-Slides.pdf # Final slide deck used for video
-│   └── Presentation_Script.txt
-│
 ├── 📁 results/
 │   └── screenshots/          # Key output images (confusion matrix, PR curve, etc.)
 │
