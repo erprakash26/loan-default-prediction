@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Loan Default Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -173,3 +174,7 @@ scikit-learn
 As someone new to the field of Machine Learning, I tried my best to implement every required concept in a structured and thoughtful way. It was a great learning experience, especially in terms of handling real-world data, feature engineering, and model optimization.
 
 I'm always open to feedback and improvement. If any part of this project can be enhanced, I’m happy to revisit and refine it further.
+=======
+# loan-default-prediction
+A machine learning project to predict loan default using classification models, feature engineering, and evaluation metrics.
+>>>>>>> 186c4ba669bcdfc964bef9c3ca85b934d56c3ee7
