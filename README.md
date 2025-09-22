@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🧠 Loan Default Prediction using Machine Learning
+#  Loan Default Prediction using Machine Learning
 
 ## 📌 Project Overview
 
@@ -169,7 +168,7 @@ scikit-learn
 
 ## 💬 Final Reflection
 
-> This project gave me a hands-on understanding of building a complete machine learning pipeline — from preprocessing and modeling to evaluation and validation.
+This project gave me a hands-on understanding of building a complete machine learning pipeline — from preprocessing and modeling to evaluation and validation.
 
 As someone new to the field of Machine Learning, I tried my best to implement every required concept in a structured and thoughtful way. It was a great learning experience, especially in terms of handling real-world data, feature engineering, and model optimization.
 
