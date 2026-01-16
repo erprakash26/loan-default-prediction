@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 
-This project aims to build a **classification model** that predicts whether a borrower is likely to **default on a loan** using structured financial data. Accurate loan default prediction models help **banks and financial institutions** manage credit risk, reduce losses, and improve decision-making.
+This project aims to predict whether a borrower is likely to default on a loan using supervised machine learning classification models. Such systems are widely used in banking and finance to assess credit risk and reduce financial losses.
+
+The final **Random Forest classifier** delivered near-perfect predictive performance.
 
 ---
 
